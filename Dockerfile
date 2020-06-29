@@ -1,1 +1,1 @@
-FROM    quay.io/quay/cso-catalog:release-v3.3
+FROM    quay.io/quay/cso-catalog:v1.0.5
