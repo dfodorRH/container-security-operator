@@ -11,7 +11,7 @@ objects:
     namespace: ${TARGET_NAMESPACE}
   spec:
     displayName: Container Secutiry Operator
-    image: quay.io/quay/cso-catalog:v1.0.5
+    image: ${IMAGE}:${IMAGE_TAG}
     publisher: AppSRE Team
     sourceType: grpc
 - apiVersion: operators.coreos.com/v1
