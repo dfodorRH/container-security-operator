@@ -15,7 +15,7 @@ objects:
     name: container-security-operator
     namespace: ${TARGET_NAMESPACE}
   spec:
-    channel: quay-v3.3
+    channel: quay-v3.5
     name: container-security-operator
     source: redhat-operators
     sourceNamespace: openshift-marketplace
